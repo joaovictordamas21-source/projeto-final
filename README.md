@@ -1,4 +1,4 @@
-# LevelZone – Loja de jogos (PHP + MVC, sem JavaScript)
+# LevelZone – Loja de jogos 
 
 ## Instalação (XAMPP + VS Code)
 1. Apague a pasta `levelzone` antiga de `C:\xampp\htdocs\` (se existir) e copie esta no lugar.
